@@ -1,0 +1,45 @@
+{
+    "name": "山田 慈尊",
+    "roles": [
+        "フルスタック エンジニア",
+        "モバイル開発者",
+        "ウェブ3開発者"
+    ],
+    "country": "日本",
+    "address": "長崎県五島市",
+    "motto": "口先だけは安い。コードを見せてくれ",
+    "dob": "02/24/1996",
+    "age": 30,
+    "languages": [
+        {
+            "name": "英語",
+            "level": "流暢"
+        },
+        {
+            "name": "中国語",
+            "level": "ネイティブ"
+        },
+        {
+            "name": "日本語",
+            "level": "基本"
+        }
+    ],
+    "github": "https://github.com/cocode200",
+    "discord": "https://discord.gg/raENMGaZ",
+    "whatsapp": "https://wa.me/14705571441",
+    "email": "jason.yamada.yoshi@gmail.com",
+    "phone": "09025786375",
+    "social": [
+        {
+            "name": "whatsapp",
+            "link": "+ 1 470 557 1441",
+            "icon": "whatsapp"
+        },
+        {
+            "name": "discord",
+            "link": "cocode200",
+            "icon": "discord"
+        }        
+    ],
+    "description": "私は、ウェブ開発とビジネス インテリジェンスで 8 年以上の経験があります。\n 複雑な ウェブアプリケーションを成功裏に提供し、部門横断的なチームと連携してきた実績があります。問題解決能力に長けており、業界のトレンドを常に把握するために新しいテクノロジーを継続的に学習しています。"
+}

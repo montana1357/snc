@@ -1,0 +1,25 @@
+{
+    "education": [
+        {
+            "start_date": 2012,
+            "end_date": 2016,
+            "university_name": "香港シティ工科大学 (HCMUT)",
+            "location": "香港シティ",
+            "award": "コンピュータサイエンス学士"
+        }
+    ],
+    "languages": [
+        {
+            "name": "英語",
+            "level": 10
+        },
+        {
+            "name": "中国語",
+            "level": 10
+        },
+        {
+            "name": "日本語",
+            "level": 5
+        }
+    ]
+}
