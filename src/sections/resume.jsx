@@ -110,24 +110,18 @@ const Resume = () => {
                                         </div>
                                     </li>
                                     <li className="border-line-h">
-                                        <div className="name">ドイツ語</div>
+                                        <div className="name">中国語</div>
                                         <div className="progress">
-                                            <div className="percentage" style={{ width: "60%" }}></div>
+                                            <div className="percentage" style={{ width: "90%" }}></div>
                                         </div>
                                     </li>
                                     <li className="border-line-h">
-                                        <div className="name">イタリア語</div>
+                                        <div className="name">日本語</div>
                                         <div className="progress">
-                                            <div className="percentage" style={{ width: "30%" }}></div>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div className="name">フランス語</div>
-                                        <div className="progress ">
                                             <div className="percentage" style={{ width: "70%" }}></div>
                                         </div>
                                     </li>
-                                </ul>
+                                 </ul>
                             </div>
                         </div>
 
