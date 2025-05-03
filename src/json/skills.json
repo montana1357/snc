@@ -3,9 +3,9 @@
         {
             "start_date": 2012,
             "end_date": 2016,
-            "university_name": "香港シティ工科大学 (HCMUT)",
-            "location": "香港シティ",
-            "award": "コンピュータサイエンス学士"
+            "university_name": "香港大学",
+            "location": "香港",
+            "award": "コンピュータサイエンス修士"
         }
     ],
     "languages": [
@@ -19,7 +19,7 @@
         },
         {
             "name": "日本語",
-            "level": 5
+            "level": 8
         }
     ]
 }
