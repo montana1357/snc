@@ -1,0 +1,202 @@
+{
+    "projects": [
+        {
+            "categories": [
+                "ウェブ"
+            ],
+            "name": "EC",
+            "time": "2019",
+            "stacks": [
+                "react",
+                "redux",
+                "wix",
+                "laravel"
+            ],
+            "content": "\"EC\" ウェブ サイトは、React と Laravel の両方における私の専門知識を見事な形で示しています。このプロジェクトは、ニッチなユーザー層に応える、視覚的に魅力的で機能性の高い ウェブ サイトを作成する私の能力を実証しています。",
+            "keypoints": [
+                "レスポンシブ デザイン",
+                "React と Laravel の統合",
+                "動的コンテンツ管理"
+            ],
+            "imageUrl": "images/projects/bigtiny.png",
+            "link": "https://escapeatlazarus.com/"
+        },
+        {
+            "categories": [
+                "ウェブ"
+            ],
+            "name": "Avawatz 機械学習会社",
+            "time": "2023",
+            "stacks": [
+                "react",
+                "PHP",
+                "Wordpress",
+                "MySQL",
+                "AWS"
+            ],
+            "content": "'Avawatz 会社'は、WordPress と PHP で構築された視覚的に美しい Web サイトであり、当社のチームの卓越した職人技を披露しています。シームレスなユーザー エクスペリエンスと魅力的なデザインにより、お客様のビジョンを実現しました。AWS に Web サイトを展開する当社の取り組みにより、最適なパフォーマンス、セキュリティ、スケーラビリティが保証されます。",
+            "keypoints": [
+                "レスポンシブ デザイン",
+                "React と Laravel の統合",
+                "AWS デプロイメント"
+            ],
+            "imageUrl": "images/projects/avawatz.png",
+            "link": "https://avawatz.com/"
+        },
+        {
+            "categories": [
+                "web"
+            ],
+            "name": "Yelo Car会社",
+            "time": "2022",
+            "stacks": [
+                "C#",
+                "ASP.NET",
+                "HTML",
+                "TailwindCSS",
+                "MySQL",
+                "AWS"
+            ],
+            "content": "\"Yelo Car会社サイト\"プロジェクトのフルスタック開発者として、私の役割は、ウェブサイトのフロントエンドとバックエンドのコンポーネントの設計と実装でした。直感的なユーザーインターフェイスの作成、高度な検索機能の実装、さまざまなデバイスでのサイトの応答性の確保に取り組みました。さらに、チームと協力してパフォーマンスを最適化し、全体的なユーザーエクスペリエンスを強化しました。",
+            "keypoints": [
+                "レスポンシブデザイン",
+                "高度な検索機能",
+                "直感的なナビゲーション"
+            ],
+            "imageUrl": "images/projects/yelo.png",
+            "link": "https://iyelo.com/en"
+        },
+        {
+            "categories": [
+                "ウェブ", "モバイル"
+            ],
+            "name": "Yelo Carレンタルアプリ",
+            "time": "2022",
+            "stacks": [
+                "Android",
+                "Java",
+                "Swift",
+                "Flutter/Dart",
+                "IOS",
+                "Firebase",
+                "Laravel"
+            ],
+            "content": "\"Yelo Carレンタカー アプリ\" は、ハイブリッド モードで Flutter を使用して開発された最先端のモバイル アプリケーションです。Firebase と Laravel で構築された堅牢なバックエンド インフラストラクチャを活用し、シームレスでユーザー フレンドリーなレンタカー体験を提供します。このアプリは、セキュリティ、スケーラビリティ、効率的なデータ処理を確保しながら、ユーザーがレンタカーを検索、予約、管理するための便利なプラットフォームを提供します。",
+            "keypoints": [
+                "ハイブリッドアプリ開発",
+                "Firebase 統合",
+                "Laravel バックエンド"
+            ],
+            "imageUrl": "images/projects/yelo_renting_app.png",
+            "link": "https://apps.apple.com/jo/app/yelo-%D9%8A%D9%84%D9%88/id923853721?platform=iphone"
+        },
+        {
+            "categories": [
+                "ウェブ"
+            ],
+            "name": "スカイゴーデスクトップ",
+            "time": "2020",
+            "stacks": [
+                "UI/UX",
+                "React",
+                "Redux",
+                "Electron",
+                "Firebase",
+                "Typescript"
+            ],
+            "content": "このプロジェクトは、SKY GO (UK) デスクトップ チームとの契約者として開発されました。Sky Go デスクトップ アプリは、Electron フレームワーク上に構築された React ウェブ アプリケーションです。",
+            "keypoints": [
+                "UI/UXをリード",
+                "スケーラビリティのためのUI再構築",
+                "React、Redux、Electron 開発"
+            ],
+            "imageUrl": "images/projects/sky_go.jpg",
+            "link": "https://www.sky.com/WATCH/SKY-GO"
+        },
+        {
+            "categories": [
+                "ウェブ", "モバイル"
+            ],
+            "name": "Last Minute",
+            "time": "2020",
+            "stacks": [
+                "Typescript",
+                "Node.js",
+                "React",
+                "MySQL",
+                "Microservices",
+                "HTML",
+                "CSS",
+                "API integration",
+                "REST APIs",
+                "Web3",
+                "Mobile Development",
+                "Test-driven Development",
+                "Scrum",
+                "React Native",
+                "Firebase"
+            ],
+            "content": "この無料アプリを使えば、旅行に関するあらゆる情報をすぐに手に入れることができます。アプリの新機能により、休暇や旅行の予約がさらに簡単になります。",
+            "keypoints": [
+                "検索ページから顧客エリアまで、ネイティブ モバイル アプリ全体に貢献しました。",
+                "TypeScript を使用して React Native への移行を主導しました。",
+                "継続的デリバリー環境で関連するすべてのマイクロサービスを管理しながら、Web サイトの顧客サービス エリアを開発しました。"
+            ],
+            "imageUrl": "images/projects/last_minute.png",
+            "link": "https://apps.apple.com/us/app/lastminute-com-travel-deals/id875002914"
+        },
+        {
+            "categories": [
+                "モバイル"
+            ],
+            "name": "CampusHead (Praise & Worship)",
+            "time": "2020",
+            "stacks": [
+                "Android",
+                "Java",
+                "iOS",
+                "Swift",
+                "React Native",
+                "Firebase"
+            ],
+            "content": "CampusHead is a powerful mobile app developed using React Native in hybrid mode, designed specifically for musicians and singers in worship settings. This app revolutionizes the way musicians organize their worship setlists, find new songs, and collaborate with others. With a robust backend infrastructure powered by Firebase and Laravel, CampusHead offers a seamless and efficient experience for worship leaders and musicians.",
+            "keypoints": [
+                "ハイブリッドアプリ開発",
+                "ユーザープロファイルと設定",
+                "通知とリマインダー",
+                "Firebase と Laravel の統合"
+            ],
+            "imageUrl": "images/projects/campushead.png",
+            "link": "https://play.google.com/store/apps/details?id=com.ch_music&hl=en_US"
+        },
+        {
+            "categories": [
+                "ウェブ", "ブロックチェーン"
+            ],
+            "name": "SOLCHICKS",
+            "time": "2024",
+            "stacks": [
+                "Typescript",
+                "Java",
+                "Node.js",
+                "Mobile Development",
+                "Test-driven Development",
+                "Microservices",
+                "REST APIs",
+                "Firebase",
+                "Web3",
+                "Solana",
+                "Rust",
+                "Figma"
+            ],
+            "content": "最高の支払いと獲得の暗号通貨とファンタジーゲーム、その通りです。",
+            "keypoints": [
+                "検索ページから顧客エリアまで、Web アプリケーション全体に貢献しました。",
+                "ウェブ3 開発者として働きました。",
+                "リアルタイムの機密データ用に Redis を管理し、Docker を使用してデプロイしました。"                
+            ],
+            "imageUrl": "images/projects/solchicks.png",
+            "link": "https://www.solchicks.io/"
+        }
+    ]
+}

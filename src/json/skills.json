@@ -1,0 +1,25 @@
+{
+    "education": [
+        {
+            "start_date": 2012,
+            "end_date": 2016,
+            "university_name": "香港大学",
+            "location": "香港",
+            "award": "コンピュータサイエンス修士"
+        }
+    ],
+    "languages": [
+        {
+            "name": "英語",
+            "level": 10
+        },
+        {
+            "name": "中国語",
+            "level": 10
+        },
+        {
+            "name": "日本語",
+            "level": 8
+        }
+    ]
+}
